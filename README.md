@@ -1,11 +1,14 @@
 <h2>नमस्ते 🙏🏻, I'm Rani Asmit! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">A Developer from India 🇮🇳 </h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
+<p><em>Software Developer (Backend + Mobile) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 ---
 
-> **I am an undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering with a deep passion for software development. I thrive on continuous learning and innovation, leveraging strong logical problem-solving skills to craft creative solutions to real-world challenges. My interests span across Flutter for cross-platform app development, and foundational concepts such as Data Structures and Algorithms (DSA), Database Management Systems (DBMS), and Operating Systems (OS). I find fulfillment in contributing to Open Source projects and collaborating with technical communities to create impactful solutions. Project-based learning experiences and teamwork are integral to my growth, driving me towards my goal of creating value and fostering positive change through my work.**
+> **I’m an undergraduate Computer Science student passionate about building real-world software. I love working with Java, Spring Boot, Flutter, Dart, C++, and SQL, and I enjoy turning ideas into functional backend systems and mobile apps.
+I’ve built projects like Timely, a secure time-limited URL generator using Spring Boot + MongoDB, and SheSOS, a women’s safety application with real-time location and Google Maps integration.
+I’m always improving my skills in DSA, DBMS, OS, and API development, while contributing to communities and learning through hands-on, project-driven work. I enjoy collaborating, experimenting, and building things that bring actual value.
+Currently exploring: advanced Spring Boot concepts, database optimization, and scalable backend design.**
 
 ---
 
